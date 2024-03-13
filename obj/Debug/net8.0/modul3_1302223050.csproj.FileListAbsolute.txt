@@ -1,0 +1,15 @@
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\bin\Debug\net8.0\modul3_1302223050.exe
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\bin\Debug\net8.0\modul3_1302223050.deps.json
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\bin\Debug\net8.0\modul3_1302223050.runtimeconfig.json
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\bin\Debug\net8.0\modul3_1302223050.dll
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\bin\Debug\net8.0\modul3_1302223050.pdb
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.AssemblyInfoInputs.cache
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.AssemblyInfo.cs
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.csproj.CoreCompileInputs.cache
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.sourcelink.json
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.dll
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\refint\modul3_1302223050.dll
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.pdb
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\modul3_1302223050.genruntimeconfig.cache
+D:\jurnal4_1302223050\modul3_1302223050\modul3_1302223050\obj\Debug\net8.0\ref\modul3_1302223050.dll
